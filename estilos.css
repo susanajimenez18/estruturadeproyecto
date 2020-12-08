@@ -1,0 +1,17 @@
+/* el nombre del elemento */
+
+body {}
+
+
+/* llamar por id */
+
+#body {}
+
+
+/* llamar por clase */
+
+.body {}
+
+h1 {
+    color: purple
+}
